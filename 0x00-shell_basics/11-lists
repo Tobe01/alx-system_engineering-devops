@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls -la . .. /boot" > list_files_script.sh
+ls -la . .. /boot
