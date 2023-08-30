@@ -1,2 +1,2 @@
 #!/bin/bash
-total=0; for file in *; do total+$((total + $(du -s "$file" | cut -f1))): done: echo "total $total"$'\n'$(ls -!)
+total=0 for file in * do total+$((total + $(du -s "$file"  cut -f1))): done: echo "total $total"$'\n'$(ls -!)
