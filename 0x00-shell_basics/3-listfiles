@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "total $total" ls -1
+ls -l
