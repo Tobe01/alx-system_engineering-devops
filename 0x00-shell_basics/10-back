@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "cd -" > change_to_previous_directory.sh
